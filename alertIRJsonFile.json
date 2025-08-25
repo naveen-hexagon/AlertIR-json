@@ -268,38 +268,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "2325269",
-          "lang": "en",
-          "published": "2025-04-30T08:00:00+02:00",
-          "published_ts": 1745992800,
-          "modified": "2025-04-30T08:00:18+02:00",
-          "modified_ts": 1745992818,
-          "type": "report",
-          "issuer": "hexagon",
-          "coverage": "2025",
-          "category": [
-            "wkr-sender-101101:665"
-          ],
-          "channel": "wkr-reg",
-          "headline": "Hexagon Interim Report 1 January - 31 March 2025",
-          "summary": "",
-          "body": "\u003Cp\u003EFirst quarter 2025\u003C/p\u003E\n\n\u003Cp\u003E&#8226; 0% organic revenue growth (using fixed exchange rates and a comparable group structure)\u003Cbr /\u003E\n&#8226; Net sales increased by 2% to 1,322.8 MEUR (1,299.9)\u003Cbr /\u003E\n&#8226; Adjusted gross margin of 67.2% (66.5)\u003Cbr /\u003E\n&#8226; Adjusted operating earnings (EBIT1) decreased by -8% to 344.7 MEUR (376.5)\u003Cbr /\u003E\n&#8226; Adjusted operating margin amounted to 26.1% (29.0)\u003Cbr /\u003E\n&#8226; Earnings per share, excluding adjustments, amounted to 9.4 Euro cent (10.1)\u003Cbr /\u003E\n&#8226; Earnings per share, including adjustments, amounted to 7.0 Euro cent (8.9)\u003Cbr /\u003E\n&#8226; Operating cash flow before non-recurring items decreased to 154.0 MEUR (219.4)\u003Cbr /\u003E\n&#8226; Cash conversion amounted to 71% (88)\u003Cbr /\u003E\n&#8226; Recurring revenue increased by 10% and amounted to 570.7 MEUR (520.3)\u003C/p\u003E\n\n\u003Cp\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cstrong\u003EFor further information, please contact:\u003C/strong\u003E\u003Cbr /\u003E\nTom Hull, Head of Investor Relations, +44 (0) 7442 678 437,&#160;\u003Ca href=\"mailto:ir@hexagon.com\"\u003Eir@hexagon.com\u003C/a\u003E\u003Cbr /\u003E\nAnton Heikenstr&#246;m, Investor Relations and Business Analyst, +46 8 601 26&#160;26,&#160;\u003Ca href=\"mailto:ir@hexagon.com\"\u003Eir@hexagon.com\u003C/a\u003E\u003C/p\u003E\n\n\u003Cp\u003EThis is information that Hexagon AB is obliged to make public pursuant to the EU Market Abuse Regulation. The information was submitted for publication, through the agency of the contact person set out above, at 08:00 CET on 30 April 2025.\u003C/p\u003E\n\n\u003Cdiv\u003E\u003C/div\u003E",
-          "contactinfo": "",
-          "companyinfo": "\u003Cp\u003E\u003Cem\u003EHexagon is the global leader in precision technologies at any scale. Our digital twins, robotics and AI solutions are transforming the industries that shape our reality.\u003C/em\u003E\u003C/p\u003E\n\n\u003Cp\u003E\u003Cem\u003EHexagon (Nasdaq Stockholm: HEXA B) has approximately 24,800 employees in 50 countries and net sales of approximately 5.4bn EUR. Learn more at&#160;\u003C/em\u003E\u003Ca href=\"http://www.hexagon.com/\"\u003E\u003Cem\u003Ehexagon.com\u003C/em\u003E\u003C/a\u003E\u003Cem\u003E&#160;and follow us&#160;\u003C/em\u003E\u003Ca href=\"https://x.com/hexagonab\"\u003E\u003Cem\u003E@HexagonAB\u003C/em\u003E\u003C/a\u003E\u003Cem\u003E.\u003C/em\u003E\u003C/p\u003E",
-          "files": [
-            {
-              "location": "https://api.alertir.com/files/press/hexagon/202504295064-1.pdf",
-              "name": "202504295064-1.pdf",
-              "mimetype": "application/pdf",
-              "filesize": 938041,
-              "attributes": {
-                "title": "Hexagon Interim Report Q1 2025",
-                "caption": ""
-              }
-            }
-          ]
         }
       ]
     }
